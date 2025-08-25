@@ -1,0 +1,10 @@
+{
+  "clusterId": "8c1f1e2a-6f86-4e04-9a2e-f2c79f3b2b7a",
+  "frequency": "daily",
+  "retentionDays": 7,
+  "locked": true,
+  "window": {
+    "start": "00:00",
+    "end": "06:00"
+  }
+}
